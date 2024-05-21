@@ -43,7 +43,7 @@ DevVani ChatApp is a full-stack web application built using the MERN stack (Mong
 
 2. **Navigate to the backend directory:**
     ```bash
-    cd chatapp/backend
+    cd DevVani-ChatApp/backend
     ```
 
 3. **Install dependencies:**
@@ -67,7 +67,7 @@ DevVani ChatApp is a full-stack web application built using the MERN stack (Mong
 
 1. **Navigate to the frontend directory:**
     ```bash
-    cd chatapp/frontend
+    cd DevVani-ChatApp/frontend
     ```
 
 2. **Install dependencies:**
